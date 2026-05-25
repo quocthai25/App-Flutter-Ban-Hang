@@ -1,3 +1,3 @@
 # app_navigator
 
-A new Flutter project.
+App của Tâm đưa cho làm mẫu
